@@ -50,13 +50,13 @@ This repository contains the analysis and predictive modeling project for determ
 
 ## Model Highlights
 
-The modeling process focused on predicting the square root of vehicle prices (price_sqrt) using a multiple linear regression model. This section outlines key results and additional insights derived from the analysis.
+The modeling process focused on predicting the square root of vehicle prices (price_sqrt) using a multiple linear regression model. This section outlines key results and additional insights derived from the analysis. Our metric for evaluating the models was RMSE.
 
 ### 1. Model Performance
 •	Training Metrics:
 	•	R² (Training): The model explained a substantial proportion of variance in the training dataset, indicating a good fit.
 
-•	MSE (Training): Low mean squared error on the training set confirms the model captured relationships effectively.
+•	RMSE (Training): Low root mean squared error on the training set confirms the model captured relationships effectively.
 
 •	Validation Metrics:
 	
