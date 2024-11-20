@@ -3,6 +3,7 @@
 This repository contains the analysis and predictive modeling project for determining the prices of used vehicles. The goal is to assist a used car dealership in understanding key factors that influence vehicle prices and leveraging these insights for pricing strategies and inventory management.
 
 ## Project Structure
+
 •	Jupyter Notebook: Used_Vehicle_Prices.ipynb contains all the code, analysis, and results.
 •	Data: Preprocessed and cleaned data is used for modeling, including detailed imputation, outlier handling, and feature transformations.
 •	ReadMe: Summary of the project and findings, with directions for reproducing the analysis.
