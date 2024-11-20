@@ -10,13 +10,14 @@ This repository contains the analysis and predictive modeling project for determ
 ## Summary of Findings
 
 ### Business Context
-•	Objective: Develop a linear regression model to predict used vehicle prices.
+•	Objective: Develop a regression model to predict used vehicle prices.
 •	Use Case: Provide actionable insights to a dealership for competitive pricing and inventory decisions.
 
 ### Data Summary
 •	Dataset: 426,880 rows, 17 columns.
 •	Response Variable: Vehicle price (transformed to price_sqrt for normality).
 •	Key Predictors:
+
 	•	Numerical: Year, odometer.
 	•	Categorical: Fuel type, vehicle type, transmission, state region, etc.
 
