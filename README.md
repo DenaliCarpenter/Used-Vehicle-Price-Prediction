@@ -4,7 +4,7 @@ This repository contains the analysis and predictive modeling project for determ
 
 ## Project Structure
 
-•	Jupyter Notebook: Used_Vehicle_Prices.ipynb contains all the code, analysis, and results. The prompts to respond to are included at the end of the file. This is also where most of the analysis on the coefficients is done.
+•	Jupyter Notebook: Used_Vehicle_Prices.ipynb contains all the code, analysis, and results. The prompts to respond to are included at the end of the file. This is also where most of the analysis on the coefficients is done. The Jupyter notebook can be found here: https://github.com/DenaliCarpenter/Used-Vehicle-Price-Prediction/blob/main/Used%20Vehicle%20Prices.ipynb
 
 •	Data: Preprocessed and cleaned data is used for modeling, including detailed imputation, outlier handling, and feature transformations.
 
